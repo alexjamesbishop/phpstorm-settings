@@ -73,6 +73,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="FOREGROUND" value="ae1596" />
+      </value>
+    </option>
     <option name="BNF_EXTERNAL">
       <value>
         <option name="FONT_TYPE" value="2" />
