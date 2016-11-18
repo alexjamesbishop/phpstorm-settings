@@ -5,5 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/dev/projects/www.wcbookings.dev/wp-content/plugins/woocommerce-bookings/includes/admin/class-wc-bookings-ajax.php'" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
