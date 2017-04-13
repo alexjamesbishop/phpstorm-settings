@@ -1031,6 +1031,11 @@
         <option name="FOREGROUND" value="cb5ecc" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ec75e6" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
