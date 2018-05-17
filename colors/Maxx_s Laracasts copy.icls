@@ -74,6 +74,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="58565a" />
+      </value>
+    </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="cb5ecc" />
