@@ -1,8 +1,6 @@
 <scheme name="Maxx's Laracasts copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -11,10 +9,11 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="629755" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
-    <option name="CARET_COLOR" value="7b7d83" />
+    <option name="CARET_COLOR" value="ed001e" />
     <option name="CARET_ROW_COLOR" value="373c47" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
     <option name="DOCUMENTATION_COLOR" value="83f6c4" />
@@ -380,12 +379,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="fa6900" />
@@ -417,9 +410,6 @@
       <value>
         <option name="FOREGROUND" value="798891" />
       </value>
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
@@ -477,9 +467,6 @@
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -933,9 +920,6 @@
       <value>
         <option name="FOREGROUND" value="908b25" />
       </value>
-    </option>
-    <option name="MACRO_PARAMETER">
-      <value />
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
