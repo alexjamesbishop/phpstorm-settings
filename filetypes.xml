@@ -2,15 +2,26 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping pattern="product-sorting.twig" type="PLAIN_TEXT" />
-      <mapping pattern=".local" type="PLAIN_TEXT" />
-      <mapping pattern=".env_local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".local" type="PLAIN_TEXT" />
+      <mapping pattern="product-sorting.twig" type="PLAIN_TEXT" />
       <mapping pattern=".gtikeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env_local" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
