@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="/sec" value="//======================================================================&#10;// $name$&#10;//======================================================================" description="Section Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
