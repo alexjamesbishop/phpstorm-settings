@@ -8,8 +8,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/XAMPP/xamppfiles/bin/php" id="65b8464d-a24c-4c14-8764-fd428180226f" name="PHP XAMPP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/bin/php" id="e90e5504-8984-42c3-ad85-a5d53da9f537" name="Laravel Valet - Local 7.2" debugger_id="php.debugger.XDebug">
+      <interpreter id="65b8464d-a24c-4c14-8764-fd428180226f" name="PHP XAMPP" home="/Applications/XAMPP/xamppfiles/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e90e5504-8984-42c3-ad85-a5d53da9f537" name="Laravel Valet - Local 7.3" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug">
         <configuration_options>
           <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
         </configuration_options>
@@ -18,15 +18,15 @@
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="Laravel Valet - Local 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.13/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.13/bin/php" path_separator=":" version="7.2.13">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+      <interpreter name="Laravel Valet - Local 7.3">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.7/bin/php" path_separator=":" version="7.3.7">
+          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-grpc.ini, /usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.13/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.7/share/php/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.6.1">
+            <debugger_info debugger="xdebug" debugger_version="2.7.2">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -54,6 +54,7 @@
             <extension name="gd" />
             <extension name="gettext" />
             <extension name="gmp" />
+            <extension name="grpc" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="intl" />
