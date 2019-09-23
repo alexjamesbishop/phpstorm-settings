@@ -5,11 +5,11 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".local" type="PLAIN_TEXT" />
       <mapping pattern="product-sorting.twig" type="PLAIN_TEXT" />
-      <mapping pattern=".gtikeep" type="PLAIN_TEXT" />
+      <mapping pattern=".local" type="PLAIN_TEXT" />
       <mapping pattern=".env_local" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".gtikeep" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
